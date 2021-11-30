@@ -1,0 +1,10 @@
+/home/wallacep/Projetos/Estudo/MongoDB/src/main/java/com/testes/mongodb/MongoDB/dataprovider/gateway/database/repository/PessoaRepository.java
+/home/wallacep/Projetos/Estudo/MongoDB/src/main/java/com/testes/mongodb/MongoDB/MongoDbTestsApplication.java
+/home/wallacep/Projetos/Estudo/MongoDB/src/main/java/com/testes/mongodb/MongoDB/core/usecase/InsertPessoaUsecase.java
+/home/wallacep/Projetos/Estudo/MongoDB/src/main/java/com/testes/mongodb/MongoDB/core/usecase/GetAllPessoasBoundary.java
+/home/wallacep/Projetos/Estudo/MongoDB/src/main/java/com/testes/mongodb/MongoDB/core/model/Pessoa.java
+/home/wallacep/Projetos/Estudo/MongoDB/src/main/java/com/testes/mongodb/MongoDB/dataprovider/gateway/database/impl/GetAllPessoasGateway.java
+/home/wallacep/Projetos/Estudo/MongoDB/src/main/java/com/testes/mongodb/MongoDB/dataprovider/gateway/database/impl/InsertPessoaGateway.java
+/home/wallacep/Projetos/Estudo/MongoDB/src/main/java/com/testes/mongodb/MongoDB/core/usecase/InsertPessoaBoundary.java
+/home/wallacep/Projetos/Estudo/MongoDB/src/main/java/com/testes/mongodb/MongoDB/core/usecase/GetAllPessoaUsecase.java
+/home/wallacep/Projetos/Estudo/MongoDB/src/main/java/com/testes/mongodb/MongoDB/entrypoint/resource/PessoaResource.java

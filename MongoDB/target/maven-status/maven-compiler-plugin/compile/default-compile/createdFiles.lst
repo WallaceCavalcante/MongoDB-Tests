@@ -1,0 +1,10 @@
+com/testes/mongodb/MongoDB/entrypoint/resource/PessoaResource.class
+com/testes/mongodb/MongoDB/dataprovider/gateway/database/repository/PessoaRepository.class
+com/testes/mongodb/MongoDB/core/model/Pessoa.class
+com/testes/mongodb/MongoDB/core/usecase/InsertPessoaBoundary.class
+com/testes/mongodb/MongoDB/core/usecase/GetAllPessoaUsecase.class
+com/testes/mongodb/MongoDB/dataprovider/gateway/database/impl/GetAllPessoasGateway.class
+com/testes/mongodb/MongoDB/dataprovider/gateway/database/impl/InsertPessoaGateway.class
+com/testes/mongodb/MongoDB/core/usecase/GetAllPessoasBoundary.class
+com/testes/mongodb/MongoDB/core/usecase/InsertPessoaUsecase.class
+com/testes/mongodb/MongoDB/MongoDbTestsApplication.class
